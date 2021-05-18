@@ -1,4 +1,4 @@
-# Example APP
+# Profile Page APP
 
 |  | version |  
 | :---: | :---: | 
