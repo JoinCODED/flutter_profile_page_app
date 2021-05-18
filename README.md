@@ -1,6 +1,6 @@
 # Profile Page APP
 
-## Demos
+## Demo
   [Try it](https://flutter-examples-coded.web.app/profile-page-app/#/)
 
 - ### iOS
