@@ -10,7 +10,7 @@
   [Try it](https://flutter-examples-coded.web.app/profile-page-app/#/)
 
 - ### iOS
-    <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="30" /> [Steps](https://github.com/Northwest-content/flutter_demos#----progressive-web-apps-)
+    <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="30" /> [steps](https://github.com/Northwest-content/flutter_demos#----progressive-web-apps-)
 
 
 ## Installing
