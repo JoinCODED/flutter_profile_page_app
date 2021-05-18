@@ -1,9 +1,10 @@
 # Profile Page APP
 
-|  | version |  
-| :---: | :---: | 
-| Dart | 2.12.0 |
-| Flutter |  2.0.6 |
+## Demos
+  [Try it](https://flutter-examples-coded.web.app/profile-page-app/#/)
+
+- ### iOS
+    <img src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" width="30" /> [Steps](https://github.com/Northwest-content/flutter_demos#----progressive-web-apps-)
 
 
 ## Screenshots
@@ -13,6 +14,12 @@
 
 
 ## Installing
+
+|  | version |  
+| :---: | :---: | 
+| Dart | 2.12.0 |
+| Flutter |  2.0.6 |
+
 
   ```
   $ flutter pub get
